@@ -12,6 +12,8 @@
     <img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge">
   </a>
 
+   <img src="https://skillicons.dev/icons?i=github,git,astro,aws,css,docker,express,fastapi,githubactions,html,js,jenkins,jest,kubernetes,md,mongodb,nextjs,nodejs,postgres,py,pug,react,redis,redux,sass,rust,sqlite,ts,vscode,webpack,prisma,neovim,linux&perline=11&theme=dark" />
+
 ---
 
 </div>
