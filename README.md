@@ -14,7 +14,7 @@
 
   <img src="./img/greet.png">
 
-  <h1>My name is Jaume Suárez i from Spain and Colombia, I´m full stack web developer 👨🏻‍💻</h1>
+  <h1>My name is Jaume Suarez i from Spain and Colombia, I´m full stack web developer 👨🏻‍💻</h1>
 
   <img src="./img/stack.png">
 
