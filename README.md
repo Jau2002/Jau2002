@@ -22,6 +22,8 @@
 
   <img src="./img/statistics.png">
 
+  <img src="https://github-profile-trophy.vercel.app/?username=Jau2002&margin-w=15&theme=tokyonight" />
+
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=Jau2002&count_private=true&show_icons=true&bg_color=00000000&hide_border=true&show_icons=true&text_color=667799&title_color=388286&icon_color=388286">
   <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jau2002&layout=compact&hide_border=true&bg_color=00000000&text_color=667799&custom_title=Top+Languages&title_color=388286">
 
