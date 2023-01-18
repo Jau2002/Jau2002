@@ -12,6 +12,8 @@
     <img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge">
   </a>
 
+  <h1>My name is Jaume Suárez, I´am full stack web developer 👨🏻‍💻</h1>
+
   <img src="https://skillicons.dev/icons?i=github,git,astro,aws,css,docker,express,fastapi,githubactions,html,js,jenkins,jest,kubernetes,md,mongodb,nextjs,nodejs,postgres,py,pug,react,redis,redux,sass,rust,sqlite,ts,vscode,webpack,prisma,neovim,linux&perline=11&theme=dark" />
 
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=Jau2002&count_private=true&show_icons=true&bg_color=00000000&hide_border=true&show_icons=true&text_color=667799&title_color=388286&icon_color=388286">
