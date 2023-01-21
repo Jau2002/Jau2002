@@ -29,7 +29,9 @@
 
   <img src="./img/more.png">
 
-  <!--START_SECTION:activity-->
+  <!--RECENT_ACTIVITY:last_update-->
+
+  <!--RECENT_ACTIVITY:start-->
 
 ---
 
