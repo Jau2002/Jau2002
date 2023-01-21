@@ -29,6 +29,8 @@
 
   <img src="./img/more.png">
 
+  <!--START_SECTION:activity-->
+
 ---
 
 </div>
