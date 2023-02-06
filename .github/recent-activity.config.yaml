@@ -1,8 +1,8 @@
 settings:
   # username: Jau2002
-  commit_msg: Update README with the recent activity
+  # commit_msg: Update README with the recent activity
   # max_lines: 10
-  readme_file: './README.md'
+  # readme_file: './README.md'
   # whitelisted_events:
   #   - comments
   #   - create_repo
@@ -17,14 +17,17 @@ settings:
   #   - wiki
   # commit_name: readme-bot
   # commit_email: 41898282+github-actions[bot]@users.noreply.github.com
-  url_text: '{REPO}{ID}'
+  # url_text: '{REPO}{ID}'
   # date:
   #   timezone: America/Bogota
   #   text: 'Last Updated: {DATE} (GMT5)'
   #   format: ddd mmm d yyyy
   # line_prefix: '{NUM}.  '
 
-  date:
-    text: "Last Updated: {DATE} (GMT)"
+  commit_msg: "Update README with the recent activity"
+  readme_file: "./EXAMPLE.md"
   disabled_events:
     - "comments"
+  date:
+    text: "Last Updated: {DATE} (GMT)"
+
