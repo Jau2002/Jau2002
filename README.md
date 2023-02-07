@@ -14,7 +14,7 @@
 
   <img src="./img/greet.png">
 
-  <h1>My name is Jaume Suarez, I´m full stack web developer 👨🏻‍💻</h1>
+  <h2>My name is Jaume Suarez, I´m full stack web developer 👨🏻‍💻</h2>
 
   <img src="./img/stack.png">
 
@@ -28,10 +28,6 @@
   <img width="350" src="https://github-readme-stats-gilt-one-29.vercel.app/api/top-langs/?username=Jau2002&layout=compact&hide_border=true&bg_color=00000000&text_color=667799&custom_title=Top+Languages&title_color=388286">
 
   <img src="./img/more.png">
-
-  <!--RECENT_ACTIVITY:last_update-->
-
-  <!--RECENT_ACTIVITY:start-->
 
 ---
 
